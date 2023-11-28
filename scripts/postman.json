@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -120.9801,
+        "lat": 37.6941
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 284.37,
+        "feels_like": 283.11,
+        "temp_min": 283.02,
+        "temp_max": 286.05,
+        "pressure": 1020,
+        "humidity": 60
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0,
+        "deg": 0
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1701136271,
+    "sys": {
+        "type": 2,
+        "id": 2006350,
+        "country": "US",
+        "sunrise": 1701096991,
+        "sunset": 1701132415
+    },
+    "timezone": -28800,
+    "id": 5373900,
+    "name": "Modesto",
+    "cod": 200
+}
